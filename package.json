@@ -1,5 +1,5 @@
 {
-  "name": "egg-mongoose",
+  "name": "dz-egg-mongoose",
   "version": "2.1.1",
   "description": "egg mongoose plugin",
   "eggPlugin": {
